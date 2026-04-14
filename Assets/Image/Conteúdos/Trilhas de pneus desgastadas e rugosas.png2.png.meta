@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: a6bec79f0f24ce742aabcd79ee930d4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6480536990092656991
+    second: Trilhas de pneus desgastadas e rugosas.png2_0
+  - first:
+      213: 8649681772559168988
+    second: Trilhas de pneus desgastadas e rugosas.png2_1
+  - first:
+      213: 8141277080771743864
+    second: Trilhas de pneus desgastadas e rugosas.png2_2
+  - first:
+      213: -6263471859043073484
+    second: Trilhas de pneus desgastadas e rugosas.png2_3
+  - first:
+      213: -8802387189956132993
+    second: Trilhas de pneus desgastadas e rugosas.png2_4
+  - first:
+      213: 6813184925941960524
+    second: Trilhas de pneus desgastadas e rugosas.png2_5
+  - first:
+      213: 4806047387743994955
+    second: Trilhas de pneus desgastadas e rugosas.png2_6
+  - first:
+      213: 3919582022786563351
+    second: Trilhas de pneus desgastadas e rugosas.png2_7
+  - first:
+      213: 6521170524853521203
+    second: Trilhas de pneus desgastadas e rugosas.png2_8
+  - first:
+      213: -4534509113199696261
+    second: Trilhas de pneus desgastadas e rugosas.png2_9
+  - first:
+      213: -2548073749179852125
+    second: Trilhas de pneus desgastadas e rugosas.png2_10
+  - first:
+      213: 8508166677859827053
+    second: Trilhas de pneus desgastadas e rugosas.png2_11
+  - first:
+      213: -3866982362378258136
+    second: Trilhas de pneus desgastadas e rugosas.png2_12
+  - first:
+      213: -8234023465275604537
+    second: Trilhas de pneus desgastadas e rugosas.png2_13
+  - first:
+      213: 5448757647562637622
+    second: Trilhas de pneus desgastadas e rugosas.png2_14
+  - first:
+      213: -6692389463302127722
+    second: Trilhas de pneus desgastadas e rugosas.png2_15
+  - first:
+      213: 8078072666108941946
+    second: Trilhas de pneus desgastadas e rugosas.png2_16
+  - first:
+      213: 2687129349097423686
+    second: Trilhas de pneus desgastadas e rugosas.png2_17
+  - first:
+      213: -7355131784712059310
+    second: Trilhas de pneus desgastadas e rugosas.png2_18
+  - first:
+      213: -9182210728495321112
+    second: Trilhas de pneus desgastadas e rugosas.png2_19
+  - first:
+      213: 881689837392360851
+    second: Trilhas de pneus desgastadas e rugosas.png2_20
+  - first:
+      213: 3810248021257940609
+    second: Trilhas de pneus desgastadas e rugosas.png2_21
+  - first:
+      213: 6904703874839865286
+    second: Trilhas de pneus desgastadas e rugosas.png2_22
+  - first:
+      213: -4678790937742659850
+    second: Trilhas de pneus desgastadas e rugosas.png2_23
+  - first:
+      213: 6578721950126292080
+    second: Trilhas de pneus desgastadas e rugosas.png2_24
+  - first:
+      213: -619955984138859456
+    second: Trilhas de pneus desgastadas e rugosas.png2_25
+  - first:
+      213: -5095609111312549464
+    second: Trilhas de pneus desgastadas e rugosas.png2_26
+  - first:
+      213: 7270326145820424078
+    second: Trilhas de pneus desgastadas e rugosas.png2_27
+  - first:
+      213: 5995787439482323894
+    second: Trilhas de pneus desgastadas e rugosas.png2_28
+  - first:
+      213: 8091466799536842326
+    second: Trilhas de pneus desgastadas e rugosas.png2_29
+  - first:
+      213: -4014376782329026161
+    second: Trilhas de pneus desgastadas e rugosas.png2_30
+  - first:
+      213: -293013492071178049
+    second: Trilhas de pneus desgastadas e rugosas.png2_31
+  - first:
+      213: -2562115220096194892
+    second: Trilhas de pneus desgastadas e rugosas.png2_32
+  - first:
+      213: 5307597045674699310
+    second: Trilhas de pneus desgastadas e rugosas.png2_33
+  - first:
+      213: 4374570005221936310
+    second: Trilhas de pneus desgastadas e rugosas.png2_34
+  - first:
+      213: 3041105035746292776
+    second: Trilhas de pneus desgastadas e rugosas.png2_35
+  - first:
+      213: -5611597100405536259
+    second: Trilhas de pneus desgastadas e rugosas.png2_36
+  - first:
+      213: 4724366005289444123
+    second: Trilhas de pneus desgastadas e rugosas.png2_37
+  - first:
+      213: 5095866717815684659
+    second: Trilhas de pneus desgastadas e rugosas.png2_38
+  - first:
+      213: -574653854235151827
+    second: Trilhas de pneus desgastadas e rugosas.png2_39
+  - first:
+      213: -4615244143906688259
+    second: Trilhas de pneus desgastadas e rugosas.png2_40
+  - first:
+      213: 6238422690099284934
+    second: Trilhas de pneus desgastadas e rugosas.png2_41
+  - first:
+      213: 6974821116671391909
+    second: Trilhas de pneus desgastadas e rugosas.png2_42
+  - first:
+      213: -430757137106988971
+    second: Trilhas de pneus desgastadas e rugosas.png2_43
+  - first:
+      213: 7267713594057457805
+    second: Trilhas de pneus desgastadas e rugosas.png2_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 1444
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518040ae0e7fe950800000000000000
+      internalID: 6480536990092656991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 410
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd57f818eb7d90870800000000000000
+      internalID: 8649681772559168988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870dd61ee50abf070800000000000000
+      internalID: 8141277080771743864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 389
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432051d878da319a0800000000000000
+      internalID: -6263471859043073484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 412
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f373fdc73a7d580800000000000000
+      internalID: -8802387189956132993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f01d3a79b4d8e50800000000000000
+      internalID: 6813184925941960524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44cc28b2a282b240800000000000000
+      internalID: 4806047387743994955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 400
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d33383517256630800000000000000
+      internalID: 3919582022786563351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 391
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b44adaa0adf7a50800000000000000
+      internalID: 6521170524853521203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 405
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76e5f48cff2211c0800000000000000
+      internalID: -4534509113199696261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 389
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa13a6ec6c63acd0800000000000000
+      internalID: -2548073749179852125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d76abe384131670800000000000000
+      internalID: 8508166677859827053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 357
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8293eb19708b55ac0800000000000000
+      internalID: -3866982362378258136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 349
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c14408b84fdabd80800000000000000
+      internalID: -8234023465275604537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6310a223630ed9b40800000000000000
+      internalID: 5448757647562637622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 333
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f3f4dad3bdf13a0800000000000000
+      internalID: -6692389463302127722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 325
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7657355a441b1070800000000000000
+      internalID: 8078072666108941946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 253
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6438a7ee7e99a4520800000000000000
+      internalID: 2687129349097423686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568d086c925de990800000000000000
+      internalID: -7355131784712059310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_19
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef614bedfb329080800000000000000
+      internalID: -9182210728495321112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 253
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f7d75c346c3c00800000000000000
+      internalID: 881689837392360851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 245
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ee6354368b0e430800000000000000
+      internalID: 3810248021257940609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_22
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 253
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7e71b679f62df50800000000000000
+      internalID: 6904703874839865286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 221
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe28817e68911fb0800000000000000
+      internalID: -4678790937742659850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 213
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb75112c05c4b50800000000000000
+      internalID: 6578721950126292080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 206
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c860d21597567f0800000000000000
+      internalID: -619955984138859456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b8fdc282c849b0800000000000000
+      internalID: -5095609111312549464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 189
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877cda1c1365e460800000000000000
+      internalID: 7270326145820424078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3c71fb8e0553350800000000000000
+      internalID: 5995787439482323894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 170
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a24a0f2aaa4070800000000000000
+      internalID: 8091466799536842326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89e3b6e5911a48c0800000000000000
+      internalID: -4014376782329026161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 158
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb063ba08c10febf0800000000000000
+      internalID: -293013492071178049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b66b8038c9817cd0800000000000000
+      internalID: -2562115220096194892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a6a56646f58a940800000000000000
+      internalID: 5307597045674699310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_34
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 122
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc05560e3895bc30800000000000000
+      internalID: 4374570005221936310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 115
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243f44eaec243a20800000000000000
+      internalID: 3041105035746292776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_36
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df947bf2b2a9f12b0800000000000000
+      internalID: -5611597100405536259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_37
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13653ed9d1509140800000000000000
+      internalID: 4724366005289444123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_38
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 114
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb322e7c728b640800000000000000
+      internalID: 5095866717815684659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_39
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 98
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22318d3d5b6608f0800000000000000
+      internalID: -574653854235151827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_40
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 114
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27dba57eb53ffb0800000000000000
+      internalID: -4615244143906688259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_41
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 115
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbca125264539650800000000000000
+      internalID: 6238422690099284934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_42
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 110
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a87717f9da8bc060800000000000000
+      internalID: 6974821116671391909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55016428aa4a50af0800000000000000
+      internalID: -430757137106988971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trilhas de pneus desgastadas e rugosas.png2_44
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80821ff10b1cd460800000000000000
+      internalID: 7267713594057457805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trilhas de pneus desgastadas e rugosas.png2_0: 6480536990092656991
+      Trilhas de pneus desgastadas e rugosas.png2_1: 8649681772559168988
+      Trilhas de pneus desgastadas e rugosas.png2_10: -2548073749179852125
+      Trilhas de pneus desgastadas e rugosas.png2_11: 8508166677859827053
+      Trilhas de pneus desgastadas e rugosas.png2_12: -3866982362378258136
+      Trilhas de pneus desgastadas e rugosas.png2_13: -8234023465275604537
+      Trilhas de pneus desgastadas e rugosas.png2_14: 5448757647562637622
+      Trilhas de pneus desgastadas e rugosas.png2_15: -6692389463302127722
+      Trilhas de pneus desgastadas e rugosas.png2_16: 8078072666108941946
+      Trilhas de pneus desgastadas e rugosas.png2_17: 2687129349097423686
+      Trilhas de pneus desgastadas e rugosas.png2_18: -7355131784712059310
+      Trilhas de pneus desgastadas e rugosas.png2_19: -9182210728495321112
+      Trilhas de pneus desgastadas e rugosas.png2_2: 8141277080771743864
+      Trilhas de pneus desgastadas e rugosas.png2_20: 881689837392360851
+      Trilhas de pneus desgastadas e rugosas.png2_21: 3810248021257940609
+      Trilhas de pneus desgastadas e rugosas.png2_22: 6904703874839865286
+      Trilhas de pneus desgastadas e rugosas.png2_23: -4678790937742659850
+      Trilhas de pneus desgastadas e rugosas.png2_24: 6578721950126292080
+      Trilhas de pneus desgastadas e rugosas.png2_25: -619955984138859456
+      Trilhas de pneus desgastadas e rugosas.png2_26: -5095609111312549464
+      Trilhas de pneus desgastadas e rugosas.png2_27: 7270326145820424078
+      Trilhas de pneus desgastadas e rugosas.png2_28: 5995787439482323894
+      Trilhas de pneus desgastadas e rugosas.png2_29: 8091466799536842326
+      Trilhas de pneus desgastadas e rugosas.png2_3: -6263471859043073484
+      Trilhas de pneus desgastadas e rugosas.png2_30: -4014376782329026161
+      Trilhas de pneus desgastadas e rugosas.png2_31: -293013492071178049
+      Trilhas de pneus desgastadas e rugosas.png2_32: -2562115220096194892
+      Trilhas de pneus desgastadas e rugosas.png2_33: 5307597045674699310
+      Trilhas de pneus desgastadas e rugosas.png2_34: 4374570005221936310
+      Trilhas de pneus desgastadas e rugosas.png2_35: 3041105035746292776
+      Trilhas de pneus desgastadas e rugosas.png2_36: -5611597100405536259
+      Trilhas de pneus desgastadas e rugosas.png2_37: 4724366005289444123
+      Trilhas de pneus desgastadas e rugosas.png2_38: 5095866717815684659
+      Trilhas de pneus desgastadas e rugosas.png2_39: -574653854235151827
+      Trilhas de pneus desgastadas e rugosas.png2_4: -8802387189956132993
+      Trilhas de pneus desgastadas e rugosas.png2_40: -4615244143906688259
+      Trilhas de pneus desgastadas e rugosas.png2_41: 6238422690099284934
+      Trilhas de pneus desgastadas e rugosas.png2_42: 6974821116671391909
+      Trilhas de pneus desgastadas e rugosas.png2_43: -430757137106988971
+      Trilhas de pneus desgastadas e rugosas.png2_44: 7267713594057457805
+      Trilhas de pneus desgastadas e rugosas.png2_5: 6813184925941960524
+      Trilhas de pneus desgastadas e rugosas.png2_6: 4806047387743994955
+      Trilhas de pneus desgastadas e rugosas.png2_7: 3919582022786563351
+      Trilhas de pneus desgastadas e rugosas.png2_8: 6521170524853521203
+      Trilhas de pneus desgastadas e rugosas.png2_9: -4534509113199696261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
