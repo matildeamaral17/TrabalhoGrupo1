@@ -36,7 +36,7 @@ EditorBuildSettings:
     path: "Assets/Scenes/Cat\xE1logoMercedes.unity"
     guid: 25a4fed0eb08b2d42ac401674983c1a6
   - enabled: 1
-    path: Assets/Scenes/Modelo 1 Mercedes.unity
+    path: "Assets/Scenes/Cat\xE1logo part2 5.unity"
     guid: 5553c5d3381c68241bc4c0eb0aed0fef
   - enabled: 1
     path: Assets/Scenes/Modelo 2 Mercedes.unity
@@ -78,7 +78,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Modelo 4 Ferrari.unity
     guid: 80fd661570744b648a95797a7e262d64
   - enabled: 1
-    path: "Assets/Scenes/Carro do M\xEAs.unity"
+    path: "Assets/Scenes/CarrodoM\xEAs.unity"
     guid: 27153998da15e034c938e1f27069fa22
   - enabled: 1
     path: Assets/Scenes/Carro 1.unity
