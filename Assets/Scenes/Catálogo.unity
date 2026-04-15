@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 87420566}
   - component: {fileID: 87420565}
   - component: {fileID: 87420564}
+  - component: {fileID: 87420567}
   m_Layer: 5
   m_Name: "Bot\xE3o Porsche"
   m_TagString: Untagged
@@ -202,9 +203,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1633588864}
-        m_TargetAssemblyTypeName: "Bot\xE3oPorsche, Assembly-CSharp"
-        m_MethodName: LoadPorsche
+      - m_Target: {fileID: 87420567}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -252,6 +253,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87420562}
   m_CullTransparentMesh: 1
+--- !u!114 &87420567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87420562}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": "Cat\xE1logoPorsche"
 --- !u!1 &123299226
 GameObject:
   m_ObjectHideFlags: 0
@@ -264,6 +278,7 @@ GameObject:
   - component: {fileID: 123299229}
   - component: {fileID: 123299228}
   - component: {fileID: 123299230}
+  - component: {fileID: 123299231}
   m_Layer: 5
   m_Name: Logo
   m_TagString: Untagged
@@ -372,7 +387,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 655304725}
+      - m_Target: {fileID: 123299231}
         m_TargetAssemblyTypeName: Voltar, Assembly-CSharp
         m_MethodName: VoltarPagina
         m_Mode: 1
@@ -384,6 +399,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &123299231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123299226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Voltar
+  cenaParaVoltar: CenaPrincipal
 --- !u!1 &296474517
 GameObject:
   m_ObjectHideFlags: 0
@@ -396,6 +424,7 @@ GameObject:
   - component: {fileID: 296474521}
   - component: {fileID: 296474520}
   - component: {fileID: 296474519}
+  - component: {fileID: 296474522}
   m_Layer: 5
   m_Name: "Bot\xE3oFerrari"
   m_TagString: Untagged
@@ -467,9 +496,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 920279054}
-        m_TargetAssemblyTypeName: "Bot\xE3oFerrari, Assembly-CSharp"
-        m_MethodName: LoadFerrari
+      - m_Target: {fileID: 296474522}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -517,95 +546,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 296474517}
   m_CullTransparentMesh: 1
---- !u!1 &537193230
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 537193232}
-  - component: {fileID: 537193231}
-  m_Layer: 0
-  m_Name: "Bot\xE3oMercedes"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &537193231
+--- !u!114 &296474522
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 537193230}
+  m_GameObject: {fileID: 296474517}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94792e93e7348a841b23be0f4e7aee08, type: 3}
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: "Assembly-CSharp::Bot\xE3oMercedes"
---- !u!4 &537193232
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 537193230}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -124.1661, y: -55.45868, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &655304724
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 655304726}
-  - component: {fileID: 655304725}
-  m_Layer: 0
-  m_Name: Voltar
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &655304725
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 655304724}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Voltar
-  cenaParaVoltar: CenaPrincipal
---- !u!4 &655304726
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 655304724}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -95.99715, y: 121.56449, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": "Cat\xE1logoFerrari"
 --- !u!1 &810969488
 GameObject:
   m_ObjectHideFlags: 0
@@ -682,50 +635,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810969488}
   m_CullTransparentMesh: 1
---- !u!1 &920279053
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 920279055}
-  - component: {fileID: 920279054}
-  m_Layer: 0
-  m_Name: "Bot\xE3oFerrari"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &920279054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 920279053}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8647c515d8317a94f8eb4bea92993e0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: "Assembly-CSharp::Bot\xE3oFerrari"
---- !u!4 &920279055
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 920279053}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 248.29329, y: -60.78061, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1028216566
 GameObject:
   m_ObjectHideFlags: 0
@@ -813,6 +722,7 @@ GameObject:
   - component: {fileID: 1029996685}
   - component: {fileID: 1029996684}
   - component: {fileID: 1029996683}
+  - component: {fileID: 1029996686}
   m_Layer: 5
   m_Name: "Bot\xE3o Mercedes"
   m_TagString: Untagged
@@ -884,9 +794,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 537193231}
-        m_TargetAssemblyTypeName: "Bot\xE3oMercedes, Assembly-CSharp"
-        m_MethodName: LoadMercedes
+      - m_Target: {fileID: 1029996686}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -934,6 +844,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1029996681}
   m_CullTransparentMesh: 1
+--- !u!114 &1029996686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029996681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": "Cat\xE1logoMercedes"
 --- !u!1 &1137967526
 GameObject:
   m_ObjectHideFlags: 0
@@ -1079,7 +1002,7 @@ GameObject:
   - component: {fileID: 1201335103}
   - component: {fileID: 1201335102}
   m_Layer: 5
-  m_Name: Ferrari
+  m_Name: "Cat\xE1logo"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1295,6 +1218,7 @@ GameObject:
   - component: {fileID: 1337323690}
   - component: {fileID: 1337323689}
   - component: {fileID: 1337323688}
+  - component: {fileID: 1337323691}
   m_Layer: 5
   m_Name: "Bot\xE3o BMW"
   m_TagString: Untagged
@@ -1366,9 +1290,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2144194200}
-        m_TargetAssemblyTypeName: "Bot\xE3oBMW, Assembly-CSharp"
-        m_MethodName: LoadBMW
+      - m_Target: {fileID: 1337323691}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1416,6 +1340,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1337323686}
   m_CullTransparentMesh: 1
+--- !u!114 &1337323691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1337323686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": "Cat\xE1logoBMW"
 --- !u!1 &1342604278
 GameObject:
   m_ObjectHideFlags: 0
@@ -1889,50 +1826,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1633588863
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1633588865}
-  - component: {fileID: 1633588864}
-  m_Layer: 0
-  m_Name: "Bot\xE3oPorsche"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1633588864
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1633588863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f992ec9ca7ea48459fdc3e9611ca180, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: "Assembly-CSharp::Bot\xE3oPorsche"
---- !u!4 &1633588865
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1633588863}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 248.29329, y: -60.78061, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1677401530
 GameObject:
   m_ObjectHideFlags: 0
@@ -2268,50 +2161,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1916597796}
   m_CullTransparentMesh: 1
---- !u!1 &2144194199
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2144194201}
-  - component: {fileID: 2144194200}
-  m_Layer: 0
-  m_Name: "Bot\xE3o BMW"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &2144194200
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2144194199}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cdea02522f642914b9a9b6ef5cb2271e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: "Assembly-CSharp::Bot\xE3oBMW"
---- !u!4 &2144194201
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2144194199}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -124.1661, y: -55.45868, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2320,8 +2169,3 @@ SceneRoots:
   - {fileID: 1845748451}
   - {fileID: 1315297916}
   - {fileID: 1553927319}
-  - {fileID: 2144194201}
-  - {fileID: 537193232}
-  - {fileID: 1633588865}
-  - {fileID: 920279055}
-  - {fileID: 655304726}

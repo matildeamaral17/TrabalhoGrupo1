@@ -812,10 +812,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 5248862841043753790, guid: e429e2fed354a9c45a5805787cde2b1f, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 37.32788
-      objectReference: {fileID: 0}
     - target: {fileID: 5942057917831255889, guid: e429e2fed354a9c45a5805787cde2b1f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -1362,6 +1358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Voltar
+  cenaParaVoltar: CenaPrincipal
 --- !u!4 &693671240
 Transform:
   m_ObjectHideFlags: 0
@@ -1426,7 +1423,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3647865946187897753, guid: fe93c605df245524cb327eccba3e288d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: "Avan\xE7arPagina"
+      value: AvancarPagina
       objectReference: {fileID: 0}
     - target: {fileID: 3647865946187897753, guid: fe93c605df245524cb327eccba3e288d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -1550,7 +1547,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Avancar
-  "CenaParaAvan\xE7ar": Carro 1
+  "CenaParaAvan\xE7ar": 
 --- !u!1001 &915046713
 PrefabInstance:
   m_ObjectHideFlags: 0
