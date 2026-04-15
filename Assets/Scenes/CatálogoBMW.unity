@@ -632,6 +632,85 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 617379345}
   m_CullTransparentMesh: 1
+--- !u!1 &664187055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 664187058}
+  - component: {fileID: 664187057}
+  - component: {fileID: 664187056}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &664187056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664187055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.UI.InputSystemUIInputModule
+  m_SendPointerHoverToParent: 1
+  m_MoveRepeatDelay: 0.5
+  m_MoveRepeatRate: 0.1
+  m_XRTrackingOrigin: {fileID: 0}
+  m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MoveAction: {fileID: -8784545083839296357, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_SubmitAction: {fileID: 392368643174621059, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_CancelAction: {fileID: 7727032971491509709, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_LeftClickAction: {fileID: 3001919216989983466, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MiddleClickAction: {fileID: -2185481485913320682, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_RightClickAction: {fileID: -4090225696740746782, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_ScrollWheelAction: {fileID: 6240969308177333660, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDevicePositionAction: {fileID: 6564999863303420839, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDeviceOrientationAction: {fileID: 7970375526676320489, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_DeselectOnBackgroundClick: 1
+  m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
+--- !u!114 &664187057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664187055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.EventSystems.EventSystem
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &664187058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 664187055}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &703595348
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,6 +723,7 @@ GameObject:
   - component: {fileID: 703595352}
   - component: {fileID: 703595351}
   - component: {fileID: 703595350}
+  - component: {fileID: 703595353}
   m_Layer: 5
   m_Name: Modelo 2
   m_TagString: Untagged
@@ -716,9 +796,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 898422863}
-        m_TargetAssemblyTypeName: CatalogoBMW, Assembly-CSharp
-        m_MethodName: LoadModelo2
+      - m_Target: {fileID: 703595353}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -766,6 +846,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 703595348}
   m_CullTransparentMesh: 1
+--- !u!114 &703595353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 703595348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": Modelo 2 BMW
 --- !u!1 &834650594
 GameObject:
   m_ObjectHideFlags: 0
@@ -778,6 +871,7 @@ GameObject:
   - component: {fileID: 834650598}
   - component: {fileID: 834650597}
   - component: {fileID: 834650596}
+  - component: {fileID: 834650599}
   m_Layer: 5
   m_Name: Modelo 1
   m_TagString: Untagged
@@ -850,9 +944,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 898422863}
-        m_TargetAssemblyTypeName: CatalogoBMW, Assembly-CSharp
-        m_MethodName: LoadModelo1
+      - m_Target: {fileID: 834650599}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -900,50 +994,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834650594}
   m_CullTransparentMesh: 1
---- !u!1 &898422862
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 898422864}
-  - component: {fileID: 898422863}
-  m_Layer: 0
-  m_Name: "Cat\xE1logoBMW"
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &898422863
+--- !u!114 &834650599
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 898422862}
+  m_GameObject: {fileID: 834650594}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64f75a7d896e20b4b994ac97f635f2a5, type: 3}
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CatalogoBMW
---- !u!4 &898422864
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 898422862}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 255.01152, y: 340.05753, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": Modelo 1 BMW
 --- !u!1 &927245789
 GameObject:
   m_ObjectHideFlags: 0
@@ -1475,6 +1538,7 @@ GameObject:
   - component: {fileID: 1483706349}
   - component: {fileID: 1483706348}
   - component: {fileID: 1483706350}
+  - component: {fileID: 1483706351}
   m_Layer: 5
   m_Name: Logo
   m_TagString: Untagged
@@ -1595,6 +1659,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &1483706351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1483706346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Voltar
+  cenaParaVoltar: "Cat\xE1logo"
 --- !u!1 &1486199251
 GameObject:
   m_ObjectHideFlags: 0
@@ -2354,6 +2431,7 @@ GameObject:
   - component: {fileID: 1961321414}
   - component: {fileID: 1961321413}
   - component: {fileID: 1961321412}
+  - component: {fileID: 1961321415}
   m_Layer: 5
   m_Name: Modelo 4
   m_TagString: Untagged
@@ -2426,9 +2504,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 898422863}
-        m_TargetAssemblyTypeName: CatalogoBMW, Assembly-CSharp
-        m_MethodName: LoadModelo4
+      - m_Target: {fileID: 1961321415}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2476,6 +2554,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1961321410}
   m_CullTransparentMesh: 1
+--- !u!114 &1961321415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1961321410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": Modelo 4 BMW
 --- !u!1 &2055307708
 GameObject:
   m_ObjectHideFlags: 0
@@ -2488,6 +2579,7 @@ GameObject:
   - component: {fileID: 2055307712}
   - component: {fileID: 2055307711}
   - component: {fileID: 2055307710}
+  - component: {fileID: 2055307713}
   m_Layer: 5
   m_Name: Modelo 3
   m_TagString: Untagged
@@ -2560,9 +2652,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 898422863}
-        m_TargetAssemblyTypeName: CatalogoBMW, Assembly-CSharp
-        m_MethodName: LoadModelo3
+      - m_Target: {fileID: 2055307713}
+        m_TargetAssemblyTypeName: Avancar, Assembly-CSharp
+        m_MethodName: "Avan\xE7arPagina"
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2610,6 +2702,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2055307708}
   m_CullTransparentMesh: 1
+--- !u!114 &2055307713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055307708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7cbe5296bf8ec429bc795027cd7e99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Avancar
+  "CenaParaAvan\xE7ar": Modelo 3 BMW
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2617,5 +2722,5 @@ SceneRoots:
   - {fileID: 314313707}
   - {fileID: 1486199255}
   - {fileID: 1451865795}
-  - {fileID: 898422864}
   - {fileID: 1272515450}
+  - {fileID: 664187058}

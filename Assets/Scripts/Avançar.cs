@@ -3,10 +3,10 @@ using UnityEngine.SceneManagement;
 
 public class Avancar : MonoBehaviour
 {
-    [SerializeField] private string cenaParaAvancar;
+    public string CenaParaAvançar;
 
-    public void AvancarPagina()
+    public void AvançarPagina()
     {
-        SceneManager.LoadScene(cenaParaAvancar);
+        SceneManager.LoadScene(CenaParaAvançar);
     }
 }
