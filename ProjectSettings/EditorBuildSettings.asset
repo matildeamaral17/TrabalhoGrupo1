@@ -27,9 +27,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Modelo 3 BMW.unity
     guid: 94d2c771e8be4f74eb54ba22333e1c9c
   - enabled: 1
-    path: Assets/Scenes/Modelo 4 BMW.unity
-    guid: a80827dd4c967bb4189a36d37b0a5030
-  - enabled: 1
     path: Assets/Scenes/Modelo 2 BMW.unity
     guid: 23563b732f2045e4a962738b7b7b94af
   - enabled: 1
@@ -42,8 +39,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Modelo 2 Mercedes.unity
     guid: fd64c73dc53db564193ab89567156ef3
   - enabled: 1
+    path: Assets/Scenes/Modelo 1 BMW.unity
+    guid: e963ce67a87c6b74ab5c9662de61c3b3
+  - enabled: 1
     path: Assets/Scenes/Modelo 3 Mercedes.unity
     guid: 5bd0444a530e5fb4da94e657f4d7a83c
+  - enabled: 1
+    path: Assets/Scenes/Modelo 1 Mercedes.unity
+    guid: 4122894dc33680143a444612ed6d28a1
   - enabled: 1
     path: Assets/Scenes/Modelo 4 Mercedes.unity
     guid: 98bc3135be7e9c148a16903ec4c97159
@@ -119,6 +122,54 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Visualizador BMW 1.unity
     guid: 4e39d9bb1f99fe64888a0493aeca95ae
+  - enabled: 1
+    path: Assets/Scenes/Visualizador BMW 2.unity
+    guid: 3c82b2302d7bf3e43b350f44990a1434
+  - enabled: 1
+    path: Assets/Scenes/Visualizador BMW 3.unity
+    guid: d9c8190d28bc9db4eb9fb50339340cbe
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Ferrari 1.unity
+    guid: f1dd8a839ce7d88499351316caffc89a
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Ferrari 2.unity
+    guid: afe73260a39054a4295bbc3f01e412e7
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Ferrari 3.unity
+    guid: f737351d5db696a4bbab7db2e95a6790
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Ferrari 4.unity
+    guid: 9791215e2854ee544abea388bb454d55
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Mercedes 1.unity
+    guid: 53a727ec90f72d54895a737befeb6e0a
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Mercedes 2.unity
+    guid: 44ae47e0eb2e18c42866f52f02a48499
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Mercedes 3.unity
+    guid: f11e749e2fb54374b9b4a07e818be290
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Mercedes 4.unity
+    guid: 286ef73faf7b8c94aba2f3cbaea06b25
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Porsche 1.unity
+    guid: 38381c11f2175c641b104fcce2c1bc2b
+  - enabled: 1
+    path: Assets/Scenes/Visualizador BMW 4.unity
+    guid: d195d8bb30a47de448804ed325a6a7de
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Porsche 2.unity
+    guid: 523968dcd7669324f9b5899e5f6d789e
+  - enabled: 1
+    path: Assets/Scenes/Modelo 4 BMW.unity
+    guid: a80827dd4c967bb4189a36d37b0a5030
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Porsche 3.unity
+    guid: 385b378517da5f44aae858bc7cf640b2
+  - enabled: 1
+    path: Assets/Scenes/Visualizador Porsche 4.unity
+    guid: e8a20ef4084698c48b7642229aa7a7d8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

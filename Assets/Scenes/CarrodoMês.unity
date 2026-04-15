@@ -977,6 +977,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5190464759455325565, guid: e429e2fed354a9c45a5805787cde2b1f, type: 3}
       insertIndex: -1
       addedObject: {fileID: 447985894}
+    - targetCorrespondingSourceObject: {fileID: 5190464759455325565, guid: e429e2fed354a9c45a5805787cde2b1f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 447985899}
   m_SourcePrefab: {fileID: 100100000, guid: e429e2fed354a9c45a5805787cde2b1f, type: 3}
 --- !u!224 &447985891 stripped
 RectTransform:
@@ -1043,7 +1046,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 693671239}
+      - m_Target: {fileID: 447985899}
         m_TargetAssemblyTypeName: Voltar, Assembly-CSharp
         m_MethodName: VoltarPagina
         m_Mode: 1
@@ -1055,6 +1058,19 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &447985899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447985892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Voltar
+  cenaParaVoltar: CenaPrincipal
 --- !u!1001 &454435130
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1362,6 +1378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84d9bfa5a1f16634fa289f76747c7704, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Voltar
+  cenaParaVoltar: 
 --- !u!4 &693671240
 Transform:
   m_ObjectHideFlags: 0
@@ -1586,6 +1603,12 @@ PrefabInstance:
     - target: {fileID: 3647865946187897753, guid: fe93c605df245524cb327eccba3e288d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3848614866856351805, guid: fe93c605df245524cb327eccba3e288d, type: 3}
+      propertyPath: m_Text
+      value: 'Novembro
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 5192923760002730279, guid: fe93c605df245524cb327eccba3e288d, type: 3}
       propertyPath: m_Name
